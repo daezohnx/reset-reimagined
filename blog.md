@@ -483,7 +483,7 @@ Perception of intellect
 
 ### 5.1 Crypto-anarchism
 
-![](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/media/veracrypt1/MegaCloud/Share/content/img/SOA_blogg.jpg)
+![](content/img/SOA_blogg.jpg)
 
 When people think about "Anarchy" they normally conflate that concept with the George Soros type soy boys Antifa. However, these are Marxist.
 
