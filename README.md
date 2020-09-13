@@ -1,4 +1,4 @@
-# The great reset, reimagined.
+# daezohnx/reset-reimagined
 
 \(the alternative to [this](https://www.weforum.org/great-reset/)\)
 
@@ -26,8 +26,6 @@ Having said this, it can also be true that a person, a group of people or a poli
 
 The genie is out of the bottle. 2020 will be remembered as the year that modern human civilisation reached a crossroad: Where we turn from here, will determine whether we head down the path of utopia or dystopia. The only thing that is certain, is that the word will never be "normal" again.
 
-![](.gitbook/assets/blue_red_pill.jpg)
-
 The status quo was never sustainable. The financial, political, cultural and educational systems were all in a desperate need of a shakeup. Having said that, this doesn't mean we should choose the first options that we are presented with when we get to choose what "the new normal" entails.
 
 Lets explore an overview of:
@@ -37,8 +35,6 @@ Lets explore an overview of:
 * the solutions.
 
 ### 1.1 The outlook: Solutions, optimism and the natural order
-
-![](.gitbook/assets/outlook.jpg)
 
 We will be exploring three different aspects of in our outlook:
 
@@ -54,7 +50,7 @@ The primary purpose for writing this, is to offer **solutions**. The news, the i
 
 Everything is subject to entropy. Unless we learn how to do time travel, or to hop between parallel universes, the human species is subject to the same fate as the dying stars that have been radiating the life into our universe - even if we outlast our own planet's mass extinction events during the normal progression of cyclical geological periods by becoming a multiplanetary species...
 
-The laws of thermodynamics can be quite dismal, but just remember this: Everything is cyclic. It depends on whether you look at it from the micro or macro perspective. In the same way that an internal combustion engine has a thermodynamic cycle, the [Big Bang itself](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/Reading%20List/Endless%20Universe.pdf) might also have been part of a thermodynamic cycle.
+The laws of thermodynamics can be quite dismal, but just remember this: Everything is cyclic. It depends on whether you look at it from the micro or macro perspective. In the same way that an internal combustion engine has a thermodynamic cycle, the \[Big Bang itself\]\(Reading List/Endless Universe.pdf\) might also have been part of a thermodynamic cycle.
 
 However, the biggest, most imminent threats to humanity are anthropogenic threats: nuclear, bioterrorism, cyber warfare, quantum computing and artificial intelligence \(human redundancy\), technocratic dystopia, etc.
 
@@ -72,8 +68,6 @@ The rate of change to human civilisation has increased exponentially, just like 
 
 ### 1.2 The obstacles: Intermediation, artificialness and atomisation
 
-![](.gitbook/assets/obstacles.jpg)
-
 We will be exploring three types of obstacles:
 
 * Intermediation,
@@ -84,7 +78,7 @@ However, first, lets look at one case study.
 
 #### WTF Happened In 1971?
 
-| ![](.gitbook/assets/US_national_debt.jpg) | ![](.gitbook/assets/Growth_in_productivity_1948%20%281%29.jpg) | ![](.gitbook/assets/age_of_marriage.png) |
+|  |  |  |
 | :--- | :--- | :--- |
 |  |  |  |
 
@@ -96,7 +90,7 @@ I will be exploring three factors:
 
 * Intermediation,
 * artificialness and
-* atomisation. 
+* atomisation.
 
 #### 1.2.1 Intermediation
 
@@ -104,19 +98,15 @@ Intermediaries have been added to all aspects of our lives. Third parties store 
 
 Lets have a brief overview of some the examples mentioned above.
 
-**Third parties store our money:** Banks have been there for centuries. However, it is only in recent history that most countries moved away from independent banks and towards central banking. More important, in 1971 President Richard Nixon announced that the US would no longer convert dollars to gold. As we saw in the previous section ["WTF Happened In 1971?"](blog.md#WTF-Happened-In-1971?), this clearly had a paradigm shifting effect on the world. We will be looking at this in more detail later.
+**Third parties store our money:** Banks have been there for centuries. However, it is only in recent history that most countries moved away from independent banks and towards central banking. More important, in 1971 President Richard Nixon announced that the US would no longer convert dollars to gold. As we saw in the previous section ["WTF Happened In 1971?"](), this clearly had a paradigm shifting effect on the world. We will be looking at this in more detail later.
 
 **Third parties teach our children:** Over the course of 200, 000 years of human history, it is only in relatively recent times that most of humanity was **NOT** employed in agriculture.
-
-![](.gitbook/assets/number-of-people-employed-in-agriculture-since-1800.png)
 
 It is no co-incidence, that this shift in agricultural employment occurred soon after the industrial revolution and urbanisation. Children used to learn the relevant skills that they needed to work in the sectors where they will be employed throughout millennia of human history. With the rise of factory employment after the industrial revolution, also came the need to train obedient factory workers to carry out mundane, repetitive, thoughtless labour. This is why lobbyists ensured that schools instil discipline with school uniform, bells and allocated seating. This model of education, however, is no longer compatible with the requirements of the information age. During the Covid lockdowns of 2020, many parents may have realised this when their children took online classes. Another concern is the relevance of the subjects taught at school: isn't **financial** and **computer** literacy more important for life skills than **political**, **social justice** or **gender study** teachings?
 
 **Third parties now also take up the role as intermediate breadwinner:** _\(Disclaimer: This will be one of the very few places that I discuss politics, the next time I mention politics will only be to demonstrate how it has become completely irrelevant.\)_ The welfare state, or socialism. The breakup of self determination of nations and cultures and the increase of single parenting. This is a vicious circle. It creates a population that become increasingly dependent on the state. The state grows bigger and have more influence over what is taught at schools, which leads increase support of the very same state. With all the BLM and Antifa riots in USA and UK in 2020, something has caught my attention. No, I am not talking about the statues that were being torn down or defaced. No, this isn't about history of slavery... All civilisations have had slavery and it is still ongoing everywhere in the world, it is only the West that **abolished** it. No, this is about something else... Something bit deeper. I have heard a phrase that has become popular in America: "white privilege". Firstly, it is actually quite racist to believe in this, because it implies superiority. However, in a surprising way, it is actually true that, to a certain extend, white people in America **are** privileged, despite affirmative action. This has to do with a deeper rooted problem that affect some communities more than others: fatherlessness. Fatherlessness in communities is another problem in society that causes a vicious circle of state dependency: The more a community faces fatherlessness, the more problems there will be in that community and therefore the more they need to sate to intervene, and in turn, the more the state can rely on the vote of said community. However, the state has no incentive to ever solve those issues as doing so would make them redundant. Basically, in the USA, the Democrats **STILL** believe they own black people, just like they did before the American civil war. In the words of Joe Biden, if you are not voting for him "[then you ain’t black](https://www.latimes.com/opinion/story/2020-05-22/biden-says-if-youre-black-and-dont-vote-for-him-youre-not-black-hes-right)". Fatherlessness is also correlated with gun crime and mass shootings \(and so is medication\), but more on that later.
 
 I have given a few examples of how intermediation has been introduced into all aspects of our lives and when this is all combined, it is quite powerful. On the one end of the scale it is facilitated by small companies and organisations, but on the other end of the scale large corporations and governments play a bigger role. But what if I told you, all this is still relatively trivial by comparison to something much more important, yet something rarely receiving any attention at all? What makes the world go round? What is more important and more powerful than the governments, but rarely scrutinised \(while we are fighting amongst each other over nonsense\)? I will be discussing money and central banking later. But for now, have a look back over this graph that I have introduced earlier. It shows how more intermediation has also taken away most financial freedom from most people.
-
-![](.gitbook/assets/Growth_in_productivity_1948.jpg)
 
 As we will be exploring later that centralisation and intermediation do have allot of benefits in certain scenarios, but too much centralisation and intermediation isn't a one-size-fits-all solution for all problems and it doesn't always benefit all the parties concerned equally. As we will see, in many cases **disintermediation** and **decentralisation** has a lot of benefits. Too much intermediation in all aspects of our lives can lead to a lifestyles that are too artificial and atomised.
 
@@ -127,8 +117,6 @@ Human beings are complex, with a lot of complex needs. However, the most essenti
 * Health,
 * wealth and
 * social needs.
-
-![](.gitbook/assets/image-20200912190328118.png)
 
 These three areas of our well-being are all affected by the processes of intermediation, artificialness and atomisation, with **intermediation being the most fundamental causal factor of a lot of issues**.
 
@@ -149,8 +137,6 @@ I still remember the friendly and very chatty shop keepers from my local family 
 _\[Divide and conquer\]_
 
 ### 1.3 The solutions: Disintermediation and decentralisation
-
-![](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/media/veracrypt1/MegaCloud/Share/content/img/1-nnpzTe1hx74WKICL3Gj34A.jpeg)
 
 We no longer live in the paleolithic era. It is therefore harder to benefit from a healthy paleolithic diet, but for the most part this is outweighed by all the other benefits that modern provides us. Over time, and on average, humanity progresses for the better. Does this mean that every year in human history is better than the previous?
 
@@ -184,8 +170,6 @@ At the time of writing \(September 2020\), [1,392 people \(or 0.002% of the popu
 
 Then there is the case of Sweden, that did much better than the UK with no lockdown. Don't get me wrong, I am a software engineer and I have preferred to be working from home, but I don't think the government was right to dictate this sort of thing for those that can't work form home. One common counter argument that I often hear about Sweden is that they have a lower population density than the UK. This is only half true. It is true that on average Sweden has a lower population density, but most of Sweden is empty space and the people are still concentrated in the cities. It doesn't have the geography of middle America, for example. Another counter argument is that Sweden did worse than their neighbouring countries. I am not claiming Sweden is perfect, they could have done a lot more to shield their elderly and vulnerable, where this would have had the most effect, but they certainly did a lot better than the UK.
 
-![](.gitbook/assets/coronavirus-data-explorer.png)
-
 On the other hand, the outbreak only really started in the UK when winter ended and we are now about to enter a full winter, so the figures might still change drastically. Regardless, new and more deadly viruses will always be inevitable, even if this pandemic turned out to be an over reaction. Also, the events of this year will have a permanent impact on the mindset that people have about these issues. So we need a way to deal with both the new mindsets, but also new threats. Luckily \(or unluckily?\), we have some very powerful new technology at our disposal in 2020, including Blockchain digital ID. But, it is very important that we use it correctly, otherwise it can cause damage to society in ways that were never possible before. Hint: We **must** use the **ZOOPOS** approach \(explained later\).
 
 ### 2.2 Wealth
@@ -194,11 +178,7 @@ Lets get to the bottom line: Ever since the "I promise to pay the bearer, on dem
 
 Instead of being backed up by something of scarcity like gold, currency is now just printed out of thin air along with the creation of debt. With no limits on the supply of currency, it not only looses value over time, but it allows things that are priced based on the availability of debt to go through run away prices. This affects mortgages and house prices the most, because they can be taken on debt. Leading to less and less people being able to afford it in the first place, but also more and more people to loose everything they have worked for their entire life when they can no longer keep up the payments \(especially in recessions\). It is a system that is systematically locking people out of owning assets and private property while redistributing more and more to the top 1%.
 
-![](.gitbook/assets/US-income-v-housing-1-nationwide-%20%281%29.png)
-
 The entire momentary system has become a complete scam, unsustainable and we need a new system that works in our modern world. Luckily, we have a solution, that I will be discussing shortly.
-
-![](.gitbook/assets/quote-it-is-well-enough-that-people-of-the-nation-do-not-understand-our-banking-and-monetary-henry-ford-9-91-49.jpg)
 
 _\[We are tax livestock \[fear and enslavement\]. I have been describing how, through intermediation, artificialness and atomisation, we have decoupled from most of our autonomy, sovereignty, self determination and individuality. \]_
 
@@ -217,13 +197,9 @@ The current distribution between urban and rural settlement is now very likely l
 
 One possibility is an acceleration to words complete urbanisation and high density living. Within a decade or two, we could live in a world without possessions. We all know that possession of property has already become out of reach for most families since the events of 1971 that I covered earlier and this trend is likely to accelerate in the current climate.
 
-![](.gitbook/assets/US-income-v-housing-1-nationwide-.png)
-
 Elon Musk has been making the concept popular with ideas such as shareable Tesla cars and selling all his personal possessions. Back in the UK, Borris Johnson has recently passed new laws allowing for listed buildings in city centres to be knocked down and converted into high density living. This could coincide with the death of a lot of high street shops because of Covid. Unfortunately, one possibility is that a lot more people will become reliant on the sate so they would be less likely to oppose any new measures such as digital identity and immunity certificates and if we are really unlucky, a social credit score system [like the one they have in China](https://www.theguardian.com/world/2019/mar/01/china-bans-23m-discredited-citizens-from-buying-travel-tickets-social-credit-system). I discusses earlier that the state often becomes an "intermediate breadwinner" when I discussed the problems with intermediation and centralisation.
 
 Complete urbanisation could eventually lead to ultra high destiny living like these sleeping pods and communal areas with limited access to private property.
-
-![](.gitbook/assets/150930083744-capsule-hotel.jpg)
 
 In the future, these high density living spaces can be managed by digital identities such as [TENTO WALLET](https://tentohealth.com/) \(previously called Covi-Pass\) though new government housing benefit schemes. Almost like the AirBnB bookings where you are given the door entry codes in advance, but much more automated and centrally controlled. The UK government are also currently working on digital IDs: [Digital ‘ID cards’ lead the Dominic Cummings data revolution](https://www.thetimes.co.uk/article/digital-id-cards-lead-the-dominic-cummings-data-revolution-v750fn3kt).
 
@@ -404,7 +380,7 @@ Perception of intellect
                   * Distributed Ledger
                 * hobbyists use
                   * 8-bit
-                  * ​    [https://en.wikipedia.org/wiki/RISC-V](https://en.wikipedia.org/wiki/RISC-V)  
+                  * ​ [https://en.wikipedia.org/wiki/RISC-V](https://en.wikipedia.org/wiki/RISC-V)
                 * turned into wise guesswork, just like medical science
                   * Software Engineering can be more of an "art form"
                   * architects don't split hairs about the tools builders use
@@ -431,9 +407,7 @@ Perception of intellect
         * 1 Billion transistor CPU vs 80 billion neurons
           * CORES
           * 270mph \(speed of thought\)
-          * A typical neuron fires 5 – 50 times every second.
-
-            - 
+          * **A typical neuron fires 5 – 50 times every second.**
         * Power is not speed, but complexity of pattern recognition \(Atomic computational units\)
           * This is supported by grater parallelism \(no need to sync op with single clock\)
       * S.O.M
@@ -459,7 +433,7 @@ Perception of intellect
         * Algorithms give rise to "bio like", but not well understood why.
         * unlike machines normally behave
           * you know exactly how the robot arms in a BMW factory manage to create the car from end-to-end
-          * DNA is also instructions, but again some parts of exactly how the emergent living being is formed from the instructions isn't  known.
+          * DNA is also instructions, but again some parts of exactly how the emergent living being is formed from the instructions isn't known.
       * Fractals
       * mathematics
         * Emergent behaviours vs the 3 philosophies about numbers
@@ -483,8 +457,6 @@ Perception of intellect
 
 ### 5.1 Crypto-anarchism
 
-![](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/media/veracrypt1/MegaCloud/Share/content/img/SOA_blogg.jpg)
-
 When people think about "Anarchy" they normally conflate that concept with the George Soros type soy boys Antifa. However, these are Marxist.
 
 Other times, they conflate the the idea with countries that are plagued by ruthless mob rule and gang related crime. So, people also conflate "lawlessness" with "barbarism". Or they just conflate "anarchy" with "barbarism".
@@ -494,8 +466,6 @@ Consider this. The current systems of government and law that we have are archai
 Think about it this way. If your mobile service provider is rubbish, is it more effective to do an opinion poll about your experience or to just switch to a different provider? People that vote in elections, but still pay taxes regardless of the outcome are really being taken for mugs. What if each country had a currency that represented each one of the political parties? So, to use a UK analogy, if the Tories pissed you off today, you don't pay with Tory Pounds but with Labour Pounds instead. Each is taxed and controlled separately by each party. You would be surprise how reluctant they would be to backtrack on any of their promises if they stand to loose financially and immediately. Obviously, this is just an analogy, it would sill be an archaic system if it doesn't take advantage from the automation of cryptocurrency smart contracts on DApps.
 
 Lets use another analogy, have you ever seen these at Tesco?
-
-![](.gitbook/assets/tesco-3.jpeg)
 
 Everything I am describing here may sound very technical and complicated, but the underlying principles are really simple, intuitive and quite elegant self-regulating solutions. And as I say, this is technolgy that already exist and it is simple for people like me who have taken the time to study it, it is just about convincing people to overcome their **Stockholm Syndrome** and to take advantage of these solutions.
 
@@ -563,11 +533,9 @@ So, one of the guilt tripping arguments I have heard about vaccines is that some
 
 Also, when certain people are vulnerable and weak, we should be better at shielding and protecting them as it would be irresponsible anyways to let them carry on as normal and vaccinate everyone else, because they will **STILL** be at risk otherwise. No offence, but if a small minority if people immunocompromised it is a problem they have that we should deal with, not a reason to rights away and put the majority with healthy immune systems at risk.
 
-![](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/media/veracrypt1/MegaCloud/Share/content/img/bubble%20boy.jpg)
+!\[\]\(/media/veracrypt1/MegaCloud/Share/content/img/bubble boy.jpg\)
 
 The film Demolition Man [seems to have predicted so much](https://www.youtube.com/watch?v=DrUNIX2Iv04) of the insanity that we are facing today.
-
-![](.gitbook/assets/Rob-Schneider-and-Benjamin-Bratt-do-the-Demolition-Man-Future-High-Five-Handshake.jpg)
 
 Personally, if there is a virus that actually has a high fatality rate, I would strongly consider a vaccine. However, I don't take the first one, I would give plenty of time to see if there is any news of delayed side effects and I expect it could take years to fully understand if there are delayed side effects. Having said that, when anybody suggest that something is "mandatory", I will be ten times less likely to accept it, purely on principle. Even if it is a syringe of purified water that I sourced myself that you are trying to inject into me, you'd better be prepared to die in your attempt. Sadly though, if the public are forced to do this, it won't be through direct force, but through coercion. As Australia suggested "no jab, no pay".
 
