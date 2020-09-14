@@ -455,7 +455,7 @@ So, one of the guilt tripping arguments I have heard about vaccines is that some
 
 Also, when certain people are vulnerable and weak, we should be better at shielding and protecting them as it would be irresponsible anyways to let them carry on as normal and vaccinate everyone else, because they will **STILL** be at risk otherwise. No offence, but if a small minority if people immunocompromised it is a problem they have that we should deal with, not a reason to rights away and put the majority with healthy immune systems at risk.
 
-![](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/media/veracrypt1/MegaCloud/Share/content/img/bubble%20boy.jpg)
+![](content/img/bubble boy.jpg)
 
 The film Demolition Man [seems to have predicted so much](https://www.youtube.com/watch?v=DrUNIX2Iv04) of the insanity that we are facing today.
 
