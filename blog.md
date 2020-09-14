@@ -150,7 +150,7 @@ _\[Divide and conquer\]_
 
 ### 1.3 The solutions: Disintermediation and decentralisation
 
-![](https://github.com/daezohnx/reset-reimagined/tree/79ab0d889fcd4889053c93d0f69711c2bf9896b2/media/veracrypt1/MegaCloud/Share/content/img/1-nnpzTe1hx74WKICL3Gj34A.jpeg)
+<img align="left"  height="400" src="content/img/1-nnpzTe1hx74WKICL3Gj34A.jpeg">
 
 We no longer live in the paleolithic era. It is therefore harder to benefit from a healthy paleolithic diet, but for the most part this is outweighed by all the other benefits that modern provides us. Over time, and on average, humanity progresses for the better. Does this mean that every year in human history is better than the previous?
 
