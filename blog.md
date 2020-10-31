@@ -1,11 +1,6 @@
 # The great reset, reimagined.
-
 \(the alternative to [this](https://www.weforum.org/great-reset/)\)
-
 ## Follow me
-
-
-
 |          |                                                           |
 | -------- | --------------------------------------------------------- |
 | Parler   | https://parler.com/profile/Raz83/posts                    |
@@ -14,9 +9,7 @@
 | Steemit  | https://steemit.com/ (Account coming soon)                |
 | Hive     | https://www.hive.org/socialnetwork/ (Account coming soon) |
 | Hyprr    | https://hyprr.com/short_content (Account coming soon)     |
-
 ## Last updated
-
 2020-10-31
 
 ## Prelim
