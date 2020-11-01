@@ -11,22 +11,8 @@
 | **Hive**     | https://www.hive.org/socialnetwork/ (Account coming soon) |
 | **Hyprr**    | https://hyprr.com/short_content (Account coming soon)     |
 ## TL;DR (Videos)
-
-[How to solve all the problems in the world, 2020 and onwards.](https://www.youtube.com/watch?v=6Kd96eHPywo&list=PL6mS9WnaVzVlICfEt7PBhq8OGQjrYsHmn)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Kd96eHPywo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0hLIx4DiPXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ltzkSXelHBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxgBe7LSdeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cxDZGrjlOi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[HOW TO SOLVE ALL THE PROBLEMS IN THE WORLD, 2020 AND ONWARDS.](https://www.bitchute.com/playlist/eg9TjoLp0pwu/)
 ## Reasons for leaving Facebook
-
 When I first started using FB 10 years ago, it gave me something new that texting, email or MSN Messenger didn’t provide: A way to lookup and connect with old school friends from SA and news feeds where I can see what my friends are up to in one place. 
 
 However, through shadow banning, I am not seeing any of my friends’ activity in my newsfeed anyone, my newsfeed is just full of posts from FB pages. I also have already reconnected with old friends, so FB adds no value in that regard either. 
