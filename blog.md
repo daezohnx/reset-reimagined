@@ -12,6 +12,9 @@
 | **Hyprr**    | https://hyprr.com/short_content (Account coming soon)     |
 ## TLDR (videos)
 
+[How to solve all the problems in the world, 2020 and onwards.](https://www.youtube.com/watch?v=6Kd96eHPywo&list=PL6mS9WnaVzVlICfEt7PBhq8OGQjrYsHmn)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Kd96eHPywo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hLIx4DiPXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
