@@ -10,8 +10,18 @@
 | **Steemit**  | https://steemit.com/ (Account coming soon)                |
 | **Hive**     | https://www.hive.org/socialnetwork/ (Account coming soon) |
 | **Hyprr**    | https://hyprr.com/short_content (Account coming soon)     |
+## TLDR (videos)
 
-### 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Kd96eHPywo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0hLIx4DiPXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltzkSXelHBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxgBe7LSdeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cxDZGrjlOi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Last updated
 2020-10-31
 
