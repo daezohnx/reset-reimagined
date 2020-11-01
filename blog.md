@@ -1,14 +1,17 @@
 # The great reset, reimagined.
 \(the alternative to [this](https://www.weforum.org/great-reset/)\)
 ## Follow me
-|          |                                                           |
-| -------- | --------------------------------------------------------- |
-| Parler   | https://parler.com/profile/Raz83/posts                    |
-| BitChute | https://www.bitchute.com/channel/daezohn3/                |
-| Twitter  | https://twitter.com/Lekker94                              |
-| Steemit  | https://steemit.com/ (Account coming soon)                |
-| Hive     | https://www.hive.org/socialnetwork/ (Account coming soon) |
-| Hyprr    | https://hyprr.com/short_content (Account coming soon)     |
+|              |                                                           |
+| ------------ | --------------------------------------------------------- |
+| **Parler**   | https://parler.com/profile/Raz83/posts                    |
+| **Minds**    | https://www.minds.com/Daezohn/                            |
+| **BitChute** | https://www.bitchute.com/channel/daezohn3/                |
+| **Twitter**  | https://twitter.com/Lekker94                              |
+| **Steemit**  | https://steemit.com/ (Account coming soon)                |
+| **Hive**     | https://www.hive.org/socialnetwork/ (Account coming soon) |
+| **Hyprr**    | https://hyprr.com/short_content (Account coming soon)     |
+
+### 
 ## Last updated
 2020-10-31
 
