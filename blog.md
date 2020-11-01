@@ -10,7 +10,7 @@
 | **Steemit**  | https://steemit.com/ (Account coming soon)                |
 | **Hive**     | https://www.hive.org/socialnetwork/ (Account coming soon) |
 | **Hyprr**    | https://hyprr.com/short_content (Account coming soon)     |
-## TLDR (videos)
+## TL;DR (Videos)
 
 [How to solve all the problems in the world, 2020 and onwards.](https://www.youtube.com/watch?v=6Kd96eHPywo&list=PL6mS9WnaVzVlICfEt7PBhq8OGQjrYsHmn)
 
