@@ -25,6 +25,18 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cxDZGrjlOi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Reasons for leaving Facebook
+
+When I first started using FB 10 years ago, it gave me something new that texting, email or MSN Messenger didn’t provide: A way to lookup and connect with old school friends from SA and news feeds where I can see what my friends are up to in one place. 
+
+However, through shadow banning, I am not seeing any of my friends’ activity in my newsfeed anyone, my newsfeed is just full of posts from FB pages. I also have already reconnected with old friends, so FB adds no value in that regard either. 
+
+In fact, it is stupid that we have to use FB and WhatsApp as an intermediary: we need emails and phone numbers to set it up anyway, so we may as well contact each other directly without enriching a malevolent third party intermediary. Moreover, decentralised social media platforms like Steemit and Minds that don’t have centralised companies making all the profits from advertisements actually share the profits out between the users of the platform. Yes, you get money for posting and getting ‘likes’ when you generate views to these platforms. So, basically, we are on FB, giving away our time and private information for free, making others rich when it is us that should be rewarded for the value we add, only to be manipulated. We have been had as complete and utter fools. 
+
+Silicon valley companies (not the internet), have become detrimental to society and I feel it is everyone’s personal responsibly to break this trend for the good of society. It has been known for a long time that FB is responsible for various unethical practices, but we have continued to be complacent use the platform. FB is one of the root causes of a lot of the problems that the world faces today, and it isn’t going to get any better if we continue to use it.
+
+It is hard to break trends and to get people to all move across to the same alternative platform as there are just so many alternatives to get any form of cohesion. The trick is to keep things simple. Everyone has email and email contact lists. You can even do group chats and newsletters with email.
+
 ## Last updated
 2020-10-31
 
