@@ -1,20 +1,21 @@
 # The great reset, reimagined.
 \(the alternative to [this](https://www.weforum.org/great-reset/)\)
 ## Follow me
-|              |                                                              |
-| ------------ | ------------------------------------------------------------ |
-| **Parler**   | https://parler.com/profile/Raz83/posts                       |
-| **Minds**    | https://www.minds.com/Daezohn/                               |
-| **BitChute** | https://www.bitchute.com/channel/daezohn3/                   |
-| **Twitter**  | https://twitter.com/Lekker94                                 |
-| **Steemit**  | https://steemit.com/ (Account coming soon)                   |
-| **Hive**     | https://www.hive.org/socialnetwork/ (Account coming soon)    |
-| **Hyprr**    | https://hyprr.com/profile/daezohn<br/>https://hyprr.com/channels/daezohnx |
-| **LBRY**     | https://open.lbry.com/@daezohn:4                             |
-| **Jami**     | daezohn                                                      |
-| **Gab**      | https://gab.com/Daezohn                                      |
-| **Discord**  | https://discord.gg/pCJ3F5Y2                                  |
-## ## TL;DR (Videos)
+|                                              |                                                              |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| **Parler**                                   | https://parler.com/profile/Raz83/posts                       |
+| **Minds**                                    | https://www.minds.com/Daezohn/                               |
+| **BitChute**                                 | https://www.bitchute.com/channel/daezohn3/                   |
+| **Twitter**                                  | https://twitter.com/Lekker94                                 |
+| **Steemit**                                  | https://steemit.com/ (Account coming soon)                   |
+| **Hive**                                     | https://www.hive.org/socialnetwork/ (Account coming soon)    |
+| **Hyprr**                                    | https://hyprr.com/profile/daezohn<br/>https://hyprr.com/channels/daezohnx |
+| **LBRY**                                     | https://open.lbry.com/@daezohn:4                             |
+| **Jami**                                     | daezohn                                                      |
+| **Gab**                                      | https://gab.com/Daezohn                                      |
+| **Discord**                                  | https://discord.gg/pCJ3F5Y2                                  |
+| **My decentralised search<br />helper tool** | https://daezohnx.github.io/Demonopolize/                     |
+## TL;DR (Videos)
 [HOW TO SOLVE ALL THE PROBLEMS IN THE WORLD, 2020 AND ONWARDS.](https://www.bitchute.com/playlist/eg9TjoLp0pwu/)
 ## Reasons for leaving Facebook
 When I first started using FB 10 years ago, it gave me something new that texting, email or MSN Messenger didn’t provide: A way to lookup and connect with old school friends from SA and news feeds where I can see what my friends are up to in one place. 
