@@ -13,8 +13,10 @@
 | **LBRY**                                     | https://open.lbry.com/@daezohn:4                             |
 | **Jami**                                     | daezohn                                                      |
 | **Gab**                                      | https://gab.com/Daezohn                                      |
-| **Discord**                                  | https://discord.gg/pCJ3F5Y2                                  |
+| **Discord**                                  | https://discord.gg/ZQrn3dYq                                  |
 | **My decentralised search<br />helper tool** | https://daezohnx.github.io/Demonopolize/                     |
+| **Utopia**                                   | ![](content/img/ucode_FBCC61F00EFB4CB193E7AE30B702818AFC0013A3CF3ED846FAC17CA750B58662.png) |
+| **Twetch**                                   | https://twetch.app/u/20505                                   |
 ## TL;DR (Videos)
 [HOW TO SOLVE ALL THE PROBLEMS IN THE WORLD, 2020 AND ONWARDS.](https://www.bitchute.com/playlist/eg9TjoLp0pwu/)
 ## Reasons for leaving Facebook
